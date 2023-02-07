@@ -1,0 +1,1 @@
+var block = document.getElementById("block");
