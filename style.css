@@ -15,6 +15,7 @@
   background-color: black;
   position: relative;
   left: 400px;
+  animation: block 2s infinite linear;
 }
 @keyframes block {
   
