@@ -25,7 +25,7 @@
     left: -50px;
   }
 }
-#hole{
+#hole {
   width: 50px;
   height: 150px;
   background-color: white;
@@ -34,7 +34,7 @@
   top: -500px;
   animation: block 2s infinite linear;
 }
-#character{
+#character {
   width: 20px;
   height: 20px;
   background-color: red;
