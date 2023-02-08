@@ -25,3 +25,7 @@ setInterval(function () {
     counter = 0;
   }
 }, 10);
+
+function jump(){
+  
+}
