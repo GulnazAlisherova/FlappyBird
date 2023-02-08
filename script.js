@@ -29,5 +29,7 @@ setInterval(function () {
 function jump(){
   jumping = 1;
   let jumpCount = 0;
-  var jumpInterval = setInterval
+  var jumpInterval = setInterval(function(){
+    
+  })
 }
